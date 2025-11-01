@@ -1,0 +1,8 @@
+{
+  "name": "k9-options-cron",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0"
+  }
+}
